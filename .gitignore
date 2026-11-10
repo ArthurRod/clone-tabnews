@@ -28,3 +28,4 @@ console_error.log
 
 # vercel
 .vercel
+.env*
